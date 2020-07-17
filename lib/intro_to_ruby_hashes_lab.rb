@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {vegetable: potato}
+  veg_hash = {vegetable: potato}
 end
 
 def pioneer
