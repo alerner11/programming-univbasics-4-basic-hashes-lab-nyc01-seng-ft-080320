@@ -4,7 +4,7 @@ end
 
 def my_hash
   {
-    vegetable: 'potato'
+    vegetable: "potato"
   }
 end
 
